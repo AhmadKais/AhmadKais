@@ -81,6 +81,4 @@
 
 <img src="https://streak-stats.demolab.com?user=AhmadKais&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadKais&theme=tokyo-night&hide_border=true&area=true" />
-
 </div>
