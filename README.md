@@ -44,7 +44,7 @@
 <div align="center">
 
 <a href="https://github.com/AhmadKais/Final_Project_AI_Orchestration"><img width="49%" src="assets/cards/ai-orchestration.svg" alt="AI Orchestration" /></a>
-<a href="https://github.com/AhmadKais/Hw3_compilers"><img width="49%" src="assets/cards/compiler.svg" alt="Compiler: Pascal-like to P-code" /></a>
+<a href="https://github.com/AhmadKais/pascal-pcode-compiler"><img width="49%" src="assets/cards/compiler.svg" alt="Compiler: Pascal-like to P-code" /></a>
 <br/>
 <a href="https://github.com/AhmadKais/ethical-hacking-course"><img width="49%" src="assets/cards/ethical-hacking.svg" alt="Ethical Hacking Course" /></a>
 <a href="https://github.com/AhmadKais/esp32_motion_detector"><img width="49%" src="assets/cards/esp32.svg" alt="ESP32 Motion Detector" /></a>
