@@ -21,7 +21,6 @@
 - 🔐 Into **networking, security, and reverse engineering**
 - 🤖 Playing with **AI agent orchestration** and multi-agent systems
 - 👨‍🏫 I teach — I write full **Hebrew-language courses** on Python, SQL, Full Stack, networking and ethical hacking
-- 🌱 Currently building a **multithreaded zero-copy packet telemetry engine** in modern C++
 - 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/ahmad-kais-6a0384214/) or at **ahmadqais1997@gmail.com**
 
 ---
@@ -44,7 +43,6 @@
 
 | Project | What it is |
 |---|---|
-| ⚡ [**packet-telemetry-engine**](https://github.com/AhmadKais/packet-telemetry-engine) 🚧 | *Work in progress* — multithreaded, zero-copy PCAP telemetry engine in modern C++ with Python bindings (VLAN/VXLAN/GRE parsing, lock-free concurrency, LPM trie, streaming top-K) |
 | 🤖 [**Final_Project_AI_Orchestration**](https://github.com/AhmadKais/Final_Project_AI_Orchestration) | Distributed Cops-and-Robbers over P2P with AI agent orchestration |
 | 🌐 [**intel-israel-network-lab**](https://github.com/AhmadKais/intel-israel-network-lab) | Learn-by-building Cisco Packet Tracer project: a 3-branch enterprise network in 17 steps |
 | 🔓 [**ethical-hacking-course**](https://github.com/AhmadKais/ethical-hacking-course) | Ethical hacking from scratch — a full course in Hebrew |
