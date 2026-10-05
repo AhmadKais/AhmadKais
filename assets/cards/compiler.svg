@@ -16,8 +16,8 @@
   <circle cx="393" cy="135" r="3.1" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 3.5s linear infinite; animation-delay: -0.5s"/><circle cx="366" cy="135" r="2.8" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 4.0s linear infinite; animation-delay: -4.9s"/><circle cx="383" cy="135" r="2.8" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 3.7s linear infinite; animation-delay: -1.2s"/><circle cx="332" cy="135" r="2.0" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 4.4s linear infinite; animation-delay: -5.1s"/><circle cx="335" cy="135" r="2.3" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 4.9s linear infinite; animation-delay: -1.2s"/><circle cx="379" cy="135" r="2.5" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 3.7s linear infinite; animation-delay: -3.9s"/><circle cx="330" cy="135" r="3.0" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 5.3s linear infinite; animation-delay: -0.6s"/>
   <rect width="210.0" height="130" fill="url(#shine)" style="animation: sheen 5s ease-in-out infinite"/>
 </g>
-<text x="22" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#8ef0ff">🌐  Intel Israel Network Lab</text>
-<text x="22" y="66" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#cfe9ff"><tspan x="22" dy="0">Learn-by-building Cisco Packet Tracer project: a</tspan><tspan x="22" dy="19">3-branch enterprise network in 17 steps</tspan></text>
-<circle cx="28" cy="110" r="5.5" fill="#1BA0D7"/>
-<text x="40" y="114.5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#9fc6e6">Packet Tracer</text>
+<text x="22" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#8ef0ff">⚙️  Pascal-like Compiler</text>
+<text x="22" y="66" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#cfe9ff"><tspan x="22" dy="0">A C++ compiler (Flex & Bison) that turns a</tspan><tspan x="22" dy="19">Pascal-like language into P-machine code</tspan></text>
+<circle cx="28" cy="110" r="5.5" fill="#f34b7d"/>
+<text x="40" y="114.5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#9fc6e6">C++</text>
 </svg>
