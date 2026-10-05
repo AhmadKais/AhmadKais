@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00d9ff&height=220&section=header&text=Ahmad%20Kais&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Computer%20Science%20Student%20%E2%80%A2%20Engineer%20%E2%80%A2%20Educator&descAlignY=60&descSize=18" />
+<img width="100%" src="assets/header.svg" alt="Ahmad Kais — animated ocean header" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=MSc+Computer+Science+student+%F0%9F%8E%93;Software+Engineer+%7C+DevOps;Networking+%26+Security+Enthusiast+%F0%9F%94%90;AI+Agent+Orchestration+%F0%9F%A4%96;Teaching+code+in+Hebrew+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8EF0FF&center=true&vCenter=true&multiline=false&width=650&lines=MSc+Computer+Science+student+%F0%9F%8E%93;Software+Engineer+%7C+DevOps;Networking+%26+Security+Enthusiast+%F0%9F%94%90;AI+Agent+Orchestration+%F0%9F%A4%96;Teaching+code+in+Hebrew+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/ahmad-kais-6a0384214/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahmadqais1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AhmadKais"><img src="https://komarev.com/ghpvc/?username=AhmadKais&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" /></a>
+  <a href="https://github.com/AhmadKais"><img src="https://komarev.com/ghpvc/?username=AhmadKais&style=for-the-badge&color=2cc4e0&label=PROFILE+VIEWS" /></a>
 </p>
 
 </div>
@@ -41,12 +41,15 @@
 
 ### 🚀 Featured projects
 
-| Project | What it is |
-|---|---|
-| 🤖 [**Final_Project_AI_Orchestration**](https://github.com/AhmadKais/Final_Project_AI_Orchestration) | Distributed Cops-and-Robbers over P2P with AI agent orchestration |
-| 🌐 [**intel-israel-network-lab**](https://github.com/AhmadKais/intel-israel-network-lab) | Learn-by-building Cisco Packet Tracer project: a 3-branch enterprise network in 17 steps |
-| 🔓 [**ethical-hacking-course**](https://github.com/AhmadKais/ethical-hacking-course) | Ethical hacking from scratch — a full course in Hebrew |
-| 📡 [**esp32_motion_detector**](https://github.com/AhmadKais/esp32_motion_detector) | Motion detector on ESP32 in C |
+<div align="center">
+
+<a href="https://github.com/AhmadKais/Final_Project_AI_Orchestration"><img width="49%" src="assets/cards/ai-orchestration.svg" alt="AI Orchestration" /></a>
+<a href="https://github.com/AhmadKais/intel-israel-network-lab"><img width="49%" src="assets/cards/network-lab.svg" alt="Intel Israel Network Lab" /></a>
+<br/>
+<a href="https://github.com/AhmadKais/ethical-hacking-course"><img width="49%" src="assets/cards/ethical-hacking.svg" alt="Ethical Hacking Course" /></a>
+<a href="https://github.com/AhmadKais/esp32_motion_detector"><img width="49%" src="assets/cards/esp32.svg" alt="ESP32 Motion Detector" /></a>
+
+</div>
 
 ---
 
@@ -54,10 +57,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmadKais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKais&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=c%23,typescript,javascript" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmadKais&show_icons=true&hide_border=true&bg_color=135,0b3a66,03152b&title_color=8ef0ff&text_color=cfe9ff&icon_color=2cc4e0&ring_color=2cc4e0&count_private=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKais&layout=compact&hide_border=true&bg_color=135,0b3a66,03152b&title_color=8ef0ff&text_color=cfe9ff&icon_color=2cc4e0&ring_color=2cc4e0&border_radius=12&langs_count=8&hide=c%23,typescript,javascript" />
 
-<img src="https://streak-stats.demolab.com?user=AhmadKais&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AhmadKais&hide_border=true&border_radius=12&background=135,0b3a66,03152b&ring=2cc4e0&fire=8ef0ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8ef0ff&sideLabels=cfe9ff&dates=9fc6e6&stroke=2cc4e055" />
 
 </div>
 
@@ -69,4 +72,4 @@
 <img alt="A whale swimming through my contribution graph" src="https://raw.githubusercontent.com/AhmadKais/AhmadKais/output/ocean.svg" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:203a43,100:0f2027&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b6aa8,50:0b3a66,100:03152b&height=120&section=footer" />

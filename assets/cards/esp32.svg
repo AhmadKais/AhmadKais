@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 130" width="420" height="130">
+<style>
+  @keyframes rise { 0% { transform: translateY(0); opacity: 0; } 15% { opacity: .8; } 100% { transform: translateY(-130px); opacity: 0; } }
+  @keyframes sheen { from { transform: translateX(-420px); } to { transform: translateX(420px); } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b3a66"/><stop offset="1" stop-color="#03152b"/>
+  </linearGradient>
+  <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#bfefff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="c"><rect x="1" y="1" width="418" height="128" rx="12"/></clipPath>
+</defs>
+<rect x="1" y="1" width="418" height="128" rx="12" fill="url(#bg)" stroke="#2cc4e055" stroke-width="1.5"/>
+<g clip-path="url(#c)">
+  <circle cx="349" cy="135" r="1.7" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 3.9s linear infinite; animation-delay: -1.6s"/><circle cx="352" cy="135" r="2.6" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 3.4s linear infinite; animation-delay: -1.4s"/><circle cx="379" cy="135" r="2.9" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 3.2s linear infinite; animation-delay: -2.4s"/><circle cx="368" cy="135" r="2.3" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 3.6s linear infinite; animation-delay: -2.5s"/><circle cx="393" cy="135" r="2.7" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 5.1s linear infinite; animation-delay: -5.1s"/><circle cx="384" cy="135" r="2.3" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 3.0s linear infinite; animation-delay: -2.1s"/><circle cx="383" cy="135" r="3.2" fill="none" stroke="#8ef0ff" stroke-width=".9" style="animation: rise 5.9s linear infinite; animation-delay: -2.5s"/>
+  <rect width="210.0" height="130" fill="url(#shine)" style="animation: sheen 5s ease-in-out infinite"/>
+</g>
+<text x="22" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#8ef0ff">📡  ESP32 Motion Detector</text>
+<text x="22" y="66" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#cfe9ff"><tspan x="22" dy="0">Motion detection on an ESP32 microcontroller,</tspan><tspan x="22" dy="19">written in C</tspan></text>
+<circle cx="28" cy="110" r="5.5" fill="#555555"/>
+<text x="40" y="114.5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#9fc6e6">C</text>
+</svg>
