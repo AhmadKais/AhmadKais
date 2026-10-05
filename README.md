@@ -65,14 +65,10 @@
 
 ---
 
-### 🕷️ Watch out for the spider
+### 🐋 Deep dive into my contributions
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadKais/AhmadKais/output/spider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadKais/AhmadKais/output/spider-light.svg" />
-  <img alt="Spider eating my contribution graph" src="https://raw.githubusercontent.com/AhmadKais/AhmadKais/output/spider-dark.svg" />
-</picture>
+<img alt="A whale swimming through my contribution graph" src="https://raw.githubusercontent.com/AhmadKais/AhmadKais/output/ocean.svg" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:203a43,100:0f2027&height=120&section=footer" />
