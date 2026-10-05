@@ -17,7 +17,7 @@
   <rect width="210.0" height="130" fill="url(#shine)" style="animation: sheen 5s ease-in-out infinite"/>
 </g>
 <text x="22" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#8ef0ff">⚙️  Pascal-like Compiler</text>
-<text x="22" y="66" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#cfe9ff"><tspan x="22" dy="0">A C++ compiler (Flex & Bison) that turns a</tspan><tspan x="22" dy="19">Pascal-like language into P-machine code</tspan></text>
+<text x="22" y="66" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#cfe9ff"><tspan x="22" dy="0">A C++ compiler (Flex &amp; Bison) that turns a</tspan><tspan x="22" dy="19">Pascal-like language into P-machine code</tspan></text>
 <circle cx="28" cy="110" r="5.5" fill="#f34b7d"/>
 <text x="40" y="114.5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#9fc6e6">C++</text>
 </svg>
