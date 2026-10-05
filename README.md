@@ -20,7 +20,7 @@
 - 🛠️ I build things across the stack — from **low-level C/C++ systems** to **microservices on Kubernetes**
 - 🔐 Into **networking, security, and reverse engineering**
 - 🤖 Playing with **AI agent orchestration** and multi-agent systems
-- 👨‍🏫 I teach — I write full **Hebrew-language courses** on Python, SQL, Full Stack, React/Angular, networking and ethical hacking
+- 👨‍🏫 I teach — I write full **Hebrew-language courses** on Python, SQL, Full Stack, networking and ethical hacking
 - 🌱 Currently building a **multithreaded zero-copy packet telemetry engine** in modern C++
 - 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/ahmad-kais-6a0384214/) or at **ahmadqais1997@gmail.com**
 
@@ -32,7 +32,7 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,linux,bash,git,github&perline=8" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,react,angular,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,html,css&perline=8" />
 <br/>
 <img src="https://skillicons.dev/icons?i=wireshark,kali,arduino,vscode&perline=8" />
 
